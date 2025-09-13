@@ -16,5 +16,3 @@ Let's connect and build something amazing together!
 
 ### 💻 IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white)
