@@ -43,3 +43,7 @@ I use:
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+
+### And now for some 高级 stuff:
+![Stats1](https://github-readme-stats.vercel.app/api?username=Unknownuserfrommars&show_icons=true&theme=tokyonight)
+![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownuserfrommars&layout=compact&theme=tokyonight)
