@@ -47,4 +47,8 @@ I use:
 ### And now for some high-level stuff (me trying to fix the Github Stats):
 ![Stats1](https://github-readme-stats.vercel.app/api?username=Unknownuserfrommars&show_icons=true&theme=tokyonight)
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownuserfrommars&layout=compact&theme=tokyonight)
-↑ Guys seems like the app had been paused by the owner. Idk why and i also don't know when the service will resume. :(
+
+↑ Guys seems like the app had been paused by the owner. Idk why and i also don't know when the service will resume.
+
+**UPD: It's resumed!** yay~
+
