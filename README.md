@@ -39,5 +39,5 @@ I use:
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ### And now for some high-level stuff (me trying to fix the Github Stats):
-![Stats1](https://github-readme-stats.vercel.app/api?username=Unknownuserfrommars&show_icons=true&theme=tokyonight)
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownuserfrommars&layout=compact&theme=tokyonight)
+![Stats1](https://github-readme-stats-fast.vercel.app/api?username=Unknownuserfrommars&show_icons=true&theme=tokyonight)
+![Stats2](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Unknownuserfrommars&layout=compact&theme=tokyonight)
