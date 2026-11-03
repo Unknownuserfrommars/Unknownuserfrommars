@@ -1,5 +1,6 @@
 ## 👋 Hi there!
-Welcome to my NEW homepage!
+Welcome to my NEW homepage! Nice to meet you all! Here, take a seat, have a cup of tea!
+(U can call me Kevin btw)
 
 (I will upd. this page in a few days, just wait til i get some inspirations. Be sure to remind me to upd. this)
 
